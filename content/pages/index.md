@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Quantum Management
-    subtitle: 'Investing in future of foodtech, Crypto EFT'
+    subtitle: 'Investing in future of foodtech, Crypto EFT & '
     actions:
       - label: Learn More
         url: /features
