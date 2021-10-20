@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Quantum Management
-    subtitle: 'Investing in '
+    subtitle: 'Investing in future '
     actions:
       - label: Learn More
         url: /features
