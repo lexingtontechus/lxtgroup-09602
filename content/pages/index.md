@@ -81,7 +81,9 @@ sections:
     background_color: gray
 seo:
   title: LXT Group LLC
-  description: The preview of the Starter theme
+  description: >-
+    LXT Group LLC | Quantum Management - Investing in FoodTech, Crypto EFT &
+    Smart Services
   extra:
     - name: 'og:type'
       value: website
