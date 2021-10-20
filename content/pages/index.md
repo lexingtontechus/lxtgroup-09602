@@ -66,7 +66,7 @@ sections:
           Orange County, CA.
 
 
-          *   Food Delivery
+          *   Food Delivery / Cloud Kitchens
 
 
           *   Transportation Service
