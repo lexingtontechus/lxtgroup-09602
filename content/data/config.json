@@ -71,5 +71,6 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://lxtgroup-09602.netlify.app"
+    "domain": "https://lxtgroup-09602.netlify.app",
+    "favicon": "/images/logo_lxtgroup_eagle-ccb03f87.png"
 }
