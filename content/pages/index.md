@@ -27,9 +27,8 @@ sections:
     features:
       - title: FoodTech
         content: >
-          FoodTech & Healthtech - Advances in food technology spans from
-          replacement food sources to synthetic replacements of biopharma
-          applications.
+          Advances in food technology spans from replacement food sources to
+          synthetic replacements of biopharma applications.
 
 
           We are investing in businesses that divest & diversify in,
