@@ -61,10 +61,27 @@ sections:
             url: /features
             style: secondary
       - title: Smart Services
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Investing in new local business opportunities in Los Angeles, CA &
+          Orange County, CA.
+
+
+          *   Food Delivery
+
+
+          *   Transportation Service
+
+
+          *   Parcel Delivery
+
+
+          *   Medical Delivery
+
+
+          *   Logistics Service
+
+
+          *   Alcohol Delivery
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
