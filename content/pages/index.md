@@ -60,7 +60,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Smart Services
+      - title: Hyper Local Smart Services
         content: >
           Investing in new local business opportunities in Los Angeles, CA &
           Orange County, CA.
