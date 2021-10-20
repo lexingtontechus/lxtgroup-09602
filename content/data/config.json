@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/logo_lxtgroup_eagle-67e54414.png"
+        "logo": "/images/logo_lxtgroup_eagle-67e54414.png",
+        "logo_alt": "LXT Goup LLC"
     },
     "footer": {
         "has_nav": true,
