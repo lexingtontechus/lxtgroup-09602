@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/logo_lxtgroup_eagle.png"
     },
     "footer": {
         "has_nav": true,
