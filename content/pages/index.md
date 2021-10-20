@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Services
     features:
-      - title: FoodTech
+      - title: FoodTech & Healthtech
         content: >
           Advances in food technology spans from replacement food sources to
           synthetic replacements of biopharma applications.
