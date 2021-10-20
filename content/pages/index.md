@@ -60,7 +60,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Hyper Local Smart Services
+      - title: Hyper Local Microservices
         content: >
           Investing in new local business opportunities in Los Angeles, CA &
           Orange County, CA.
