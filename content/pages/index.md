@@ -26,10 +26,20 @@ sections:
     title: Services
     features:
       - title: FoodTech
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          FoodTech & Healthtech - Advances in food technology spans from
+          replacement food sources to synthetic replacements of biopharma
+          applications.
+
+
+          We are investing in businesses that divest & diversify in,
+
+
+          *   Alternative food sources that utilize new food technologies
+
+
+          *   Synthetic pharma technologies to increase accessibility to low
+          cost pharmaceuticals
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
