@@ -23,7 +23,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Services
+    title: Our Business
     features:
       - title: FoodTech & PharmaTech
         content: >
