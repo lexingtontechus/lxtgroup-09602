@@ -83,7 +83,7 @@ sections:
 
           *   Alcohol Delivery
         align: left
-        image: images/feature.svg
+        image: /images/app_food_delivery1.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
