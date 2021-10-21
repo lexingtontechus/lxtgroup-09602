@@ -704,7 +704,8 @@ models:
         label: Features
         items:
           type: reference
-          models: []
+          models:
+            - features_crypto
     labelField: Title
   features_crypto:
     type: data
