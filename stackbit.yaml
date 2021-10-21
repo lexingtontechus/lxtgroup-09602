@@ -703,7 +703,8 @@ models:
         type: list
         label: Features
         items:
-          type: string
+          type: model
+          models: []
     labelField: Title
   features_crypto:
     type: data
