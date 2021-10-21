@@ -43,7 +43,7 @@ sections:
           cost pharmaceuticals
         align: left
         image: /images/app_food_delivery1.png
-        image_alt: 'Food '
+        image_alt: Food Tech & Pharma Tech
         image_position: right
         actions:
           - label: Learn More
