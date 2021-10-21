@@ -58,7 +58,7 @@ sections:
         image_alt: Crypto EFT
         image_position: left
         actions:
-          - label: Learn More
+          - label: Join The Waitlist
             url: /features
             style: secondary
       - title: Hyper Local Microservices
