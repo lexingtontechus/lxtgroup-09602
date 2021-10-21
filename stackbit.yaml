@@ -535,6 +535,8 @@ models:
         hidden: true
       - name: ''
         type: string
+      - name: ''
+        type: string
   team_section:
     type: object
     label: Team Section
