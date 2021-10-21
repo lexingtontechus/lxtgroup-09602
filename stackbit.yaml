@@ -714,6 +714,6 @@ models:
       - name: Title
         type: string
         label: Title
-      - name: ''
+      - name: Image
         type: string
     labelField: Title
