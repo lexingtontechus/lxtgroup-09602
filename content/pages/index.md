@@ -56,7 +56,7 @@ sections:
           euismod lacinia.
         align: left
         image: /images/crypto_eft.jfif
-        image_alt: Feature 2 placeholder image
+        image_alt: Crypto EFT
         image_position: left
         actions:
           - label: Learn More
