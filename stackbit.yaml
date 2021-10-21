@@ -704,6 +704,5 @@ models:
         label: Features
         items:
           type: reference
-          models:
-            - features_crypto_eft
+          models: []
     labelField: Title
