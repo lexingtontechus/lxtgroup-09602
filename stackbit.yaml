@@ -717,4 +717,6 @@ models:
       - name: Image
         type: image
         label: Image
+      - name: ''
+        type: string
     labelField: Title
