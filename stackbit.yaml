@@ -698,3 +698,8 @@ models:
     fields:
       - name: Title
         type: string
+        label: Title
+    labelField: Title
+  features_crypto:
+    type: data
+    label: features_crypto
