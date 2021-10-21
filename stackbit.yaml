@@ -438,6 +438,8 @@ models:
         description: The type of the object
         const: features_section
         hidden: true
+      - name: ''
+        type: string
   hero_section:
     type: object
     label: Hero Section
@@ -532,6 +534,12 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
+      - type: string
+        name: type
+        label: Object Type
+        description: The type of the object
+        const: hero_section
+        hidden: true
   team_section:
     type: object
     label: Team Section
