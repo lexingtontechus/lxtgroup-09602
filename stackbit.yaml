@@ -693,6 +693,17 @@ models:
               label: Relative Url
     labelField: title
   features_crypto_eft:
-    type: data
-    label: Features Crypto
-    fields: []
+    type: object
+    label: Features Crypto EFT
+    fields:
+      - name: Title
+        type: string
+        label: Title
+      - name: Features
+        type: list
+        label: Features
+        items:
+          type: reference
+          models:
+            - features_crypto_eft
+    labelField: Title
