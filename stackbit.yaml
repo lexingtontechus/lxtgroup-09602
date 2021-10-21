@@ -705,6 +705,8 @@ models:
         items:
           type: reference
           models: []
+      - name: ''
+        type: string
     labelField: Title
   etf:
     type: data
