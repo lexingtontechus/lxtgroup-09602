@@ -694,4 +694,7 @@ models:
     labelField: title
   crypto_eft:
     type: object
-    label: crypto_eft
+    label: Crypto EFT
+    fields:
+      - name: ''
+        type: string
