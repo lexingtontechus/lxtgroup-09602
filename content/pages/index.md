@@ -61,6 +61,11 @@ sections:
           - label: Join The Waitlist
             url: <div class="convertful-147950"></div>
             style: secondary
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
       - title: Hyper Local Microservices
         content: >
           Investing in new local business opportunities in Los Angeles, CA &
