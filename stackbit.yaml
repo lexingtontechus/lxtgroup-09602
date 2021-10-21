@@ -710,3 +710,6 @@ models:
     type: data
     label: EFT
     folder: Festures Crypto
+    fields:
+      - name: ''
+        type: string
