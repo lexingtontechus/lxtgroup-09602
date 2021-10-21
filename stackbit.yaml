@@ -706,7 +706,7 @@ models:
           type: reference
           models:
             - features_crypto
-      - name: features_crypto_eft
+      - name: type
         type: object
         fields: []
         label: Features Crypto Eft
