@@ -706,3 +706,6 @@ models:
           type: reference
           models: []
     labelField: Title
+  etf:
+    type: data
+    label: etf
