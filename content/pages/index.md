@@ -59,7 +59,7 @@ sections:
         image_position: left
         actions:
           - label: Join The Waitlist
-            url: /features
+            url: '#'
             style: secondary
       - title: Hyper Local Microservices
         content: >
