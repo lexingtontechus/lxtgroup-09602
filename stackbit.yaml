@@ -694,7 +694,7 @@ models:
     labelField: title
   features_crypto_eft:
     type: object
-    label: Crypto EFT
+    label: Features Crypto EFT
     fields:
       - name: Title
         type: string
@@ -709,6 +709,7 @@ models:
       - name: features_crypto_eft
         type: object
         fields: []
+        label: Features Crypto Eft
     labelField: Title
   features_crypto:
     type: data
