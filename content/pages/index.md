@@ -42,7 +42,7 @@ sections:
           *   Synthetic pharma technologies to increase accessibility to low
           cost pharmaceuticals
         align: left
-        image: /images/app_food_delivery1.png
+        image: /images/foodtech.jfif
         image_alt: Food Tech & Pharma Tech
         image_position: right
         actions:
