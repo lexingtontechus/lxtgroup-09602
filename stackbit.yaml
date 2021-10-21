@@ -707,6 +707,7 @@ models:
           models: []
       - name: ''
         type: string
+        label: Object Type
     labelField: Title
   etf:
     type: data
