@@ -719,4 +719,5 @@ models:
         label: Image
       - name: photo_alt
         type: string
+        label: Image Alt Text
     labelField: Title
