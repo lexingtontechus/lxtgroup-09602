@@ -468,7 +468,7 @@ models:
         default: left
         description: The alignment of the text content
       - type: file
-        name: type
+        name: File
         label: Media File
         description: The type of the object
         hidden: true
