@@ -705,7 +705,7 @@ models:
         items:
           type: reference
           models: []
-      - name: ''
+      - name: type
         type: string
         label: Object Type
     labelField: Title
