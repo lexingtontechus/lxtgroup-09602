@@ -699,6 +699,8 @@ models:
       - name: Title
         type: string
         label: Title
+      - name: ''
+        type: string
     labelField: Title
   features_crypto:
     type: data
