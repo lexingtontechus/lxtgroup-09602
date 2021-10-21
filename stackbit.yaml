@@ -715,5 +715,5 @@ models:
         type: string
         label: Title
       - name: Image
-        type: string
+        type: image
     labelField: Title
