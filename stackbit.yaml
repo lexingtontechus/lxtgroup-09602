@@ -703,7 +703,7 @@ models:
         type: list
         label: Features
         items:
-          type: model
+          type: reference
           models: []
     labelField: Title
   features_crypto:
