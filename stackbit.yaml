@@ -711,5 +711,5 @@ models:
     label: EFT
     folder: Festures Crypto
     fields:
-      - name: ''
+      - name: Title
         type: string
