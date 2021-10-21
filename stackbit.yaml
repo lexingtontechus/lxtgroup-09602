@@ -709,6 +709,7 @@ models:
       - name: features_crypto_eft
         type: object
         fields: []
+        label: Features Crypto EFT
     labelField: Title
   features_crypto:
     type: data
