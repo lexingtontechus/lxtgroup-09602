@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Forex & Crypto EFT
 sections:
   - type: hero_section
     title: Forex & Crypto ETF
