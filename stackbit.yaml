@@ -713,3 +713,7 @@ models:
     fields:
       - name: Title
         type: string
+        label: Title
+      - name: ''
+        type: string
+    labelField: Title
