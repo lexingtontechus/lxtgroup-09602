@@ -59,7 +59,7 @@ sections:
         image_position: left
         actions:
           - label: Join The Waitlist
-            url: <div class="convertful-147950"></div>
+            url: /crypto
             style: secondary
       - title: Hyper Local Microservices
         content: >
