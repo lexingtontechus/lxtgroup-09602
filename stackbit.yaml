@@ -467,6 +467,11 @@ models:
           - center
         default: left
         description: The alignment of the text content
+      - type: html
+        name: type
+        label: Object Type
+        description: The type of the object
+        hidden: true
       - type: image
         name: image
         label: Image
@@ -527,12 +532,6 @@ models:
               - no-repeat
             default: no-repeat
             description: Repeat the image to cover the whole area.
-      - type: string
-        name: type
-        label: Object Type
-        description: The type of the object
-        const: hero_section
-        hidden: true
   team_section:
     type: object
     label: Team Section
