@@ -469,7 +469,7 @@ models:
         description: The alignment of the text content
       - type: file
         name: type
-        label: Object Type
+        label: Media File
         description: The type of the object
         hidden: true
       - type: image
