@@ -533,8 +533,6 @@ models:
         description: The type of the object
         const: hero_section
         hidden: true
-      - name: ''
-        type: string
   team_section:
     type: object
     label: Team Section
