@@ -720,4 +720,6 @@ models:
       - name: photo_alt
         type: string
         label: Image Alt Text
+      - name: ''
+        type: string
     labelField: Title
