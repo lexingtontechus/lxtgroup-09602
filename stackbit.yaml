@@ -706,9 +706,6 @@ models:
           type: reference
           models:
             - features_crypto
-      - name: features_crypto_eft
-        type: object
-        fields: []
     labelField: Title
   features_crypto:
     type: data
