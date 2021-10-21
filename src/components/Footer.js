@@ -47,6 +47,7 @@ export default class Footer extends React.Component {
                         ))}
                     </div>
                 </div>
+                <script id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=6615" async></script>
             </footer>
         );
     }
