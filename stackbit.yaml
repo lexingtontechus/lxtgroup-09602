@@ -467,11 +467,10 @@ models:
           - center
         default: left
         description: The alignment of the text content
-      - type: object
+      - type: image
         name: image
         label: Image
         description: The image of the section
-        fields: []
       - type: string
         name: image_alt
         label: Image Alt Text
