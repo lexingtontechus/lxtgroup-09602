@@ -18,9 +18,6 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
-  - title: lorem-ipsum
-    features: []
-    type: features_section
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
@@ -30,6 +27,9 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Who We Are
   description: This is the about us page
