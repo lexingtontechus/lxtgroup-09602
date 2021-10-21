@@ -692,7 +692,7 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-  crypto_eft:
+  features_crypto_eft:
     type: object
     label: Crypto EFT
     fields:
