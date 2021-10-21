@@ -700,7 +700,8 @@ models:
         type: string
         label: Title
       - name: Features
-        type: string
+        type: model
+        models: []
     labelField: Title
   features_crypto:
     type: data
