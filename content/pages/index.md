@@ -50,10 +50,9 @@ sections:
             url: /features
             style: secondary
       - title: Crypto EFT
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          In Q2 2022, our FinTech initiative will launch a multi-asset forex &
+          crypto brokerage service.
         align: left
         image: /images/crypto_eft.jfif
         image_alt: Crypto EFT
