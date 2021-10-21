@@ -55,7 +55,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: images/feature.svg
+        image: /images/crypto_eft.jfif
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
