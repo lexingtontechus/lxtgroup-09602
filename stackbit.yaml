@@ -722,4 +722,5 @@ models:
         label: Image Alt Text
       - name: ''
         type: string
+        label: Object Type
     labelField: Title
