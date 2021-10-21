@@ -696,5 +696,5 @@ models:
     type: object
     label: Crypto EFT
     fields:
-      - name: ''
+      - name: Title
         type: string
