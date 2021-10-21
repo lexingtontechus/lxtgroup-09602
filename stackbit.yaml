@@ -708,4 +708,4 @@ models:
     labelField: Title
   etf:
     type: data
-    label: etf
+    label: EFT
