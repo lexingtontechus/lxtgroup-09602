@@ -707,7 +707,8 @@ models:
           models:
             - features_crypto
       - name: ''
-        type: string
+        type: object
+        fields: []
     labelField: Title
   features_crypto:
     type: data
