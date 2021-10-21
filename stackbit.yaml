@@ -717,6 +717,6 @@ models:
       - name: Image
         type: image
         label: Image
-      - name: ''
+      - name: photo_alt
         type: string
     labelField: Title
