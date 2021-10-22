@@ -63,7 +63,6 @@ export default class Footer extends React.Component {
                     </minymon-feedback>
                 </minymon-body>
                 </div>
-
             </footer>
         );
     }
