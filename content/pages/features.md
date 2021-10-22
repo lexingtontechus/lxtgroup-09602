@@ -2,7 +2,7 @@
 title: Services
 sections:
   - type: hero_section
-    title: 'Quantum '
+    title: Quantum Management
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
