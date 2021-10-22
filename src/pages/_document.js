@@ -35,8 +35,7 @@ export default class MyDocument extends Document {
                 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
                     </link>
                     <script id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=6615" async></script>
-                <script 
-                    src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie_svg.min.js" 
+                <script                     src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie_svg.min.js" 
                     type="text/javascript">
                 </script>
                 <script src="https://api.minymon.com/minymon.js" defer type="text/javascript">
