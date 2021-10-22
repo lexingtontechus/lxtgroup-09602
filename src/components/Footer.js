@@ -48,7 +48,7 @@ export default class Footer extends React.Component {
                     </div>
                 </div>
                 <script id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=6615" async></script>
-                                    <script 
+                <script 
   src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie_svg.min.js" 
   type="text/javascript">
 </script>
