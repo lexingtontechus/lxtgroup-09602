@@ -3,7 +3,7 @@ title: Services
 sections:
   - type: hero_section
     title: Quantum Management
-    subtitle: EXPAND YOUR INVESTMENT PORTFOLIO
+    subtitle: EXPAND YOUR INVESTMENT PORTFOLIO THROUGH TECHNOLOGY
     align: center
   - type: features_section
     features:
