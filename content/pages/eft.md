@@ -13,7 +13,7 @@ sections:
     actions:
       - label: SUBSCRIBE
         url: /contact
-        style: secondary
+        style: primary
     has_background: true
     background_color: blue
 seo:
