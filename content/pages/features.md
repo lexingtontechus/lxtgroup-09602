@@ -2,7 +2,7 @@
 title: BioTech
 sections:
   - type: hero_section
-    title: QUANTUM MANAGEMENT
+    title: BIOTECH
     subtitle: EXPAND YOUR INVESTMENT PORTFOLIO THROUGH TECHNOLOGY
     align: center
   - type: features_section
