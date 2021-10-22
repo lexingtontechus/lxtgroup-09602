@@ -37,7 +37,7 @@ export default class MyDocument extends Document {
                     </script>
                     <script src="https://api.minymon.com/minymon.js" defer type="text/javascript">
                     </script>
-                    </Head>
+                </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <NextScript />
