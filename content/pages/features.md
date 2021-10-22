@@ -3,7 +3,7 @@ title: Services
 sections:
   - type: hero_section
     title: Quantum Management
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: EXPAND YOUR INVESTMENT PORTFOLIO
     align: center
   - type: features_section
     features:
