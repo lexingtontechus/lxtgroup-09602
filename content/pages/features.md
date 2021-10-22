@@ -3,7 +3,7 @@ title: BioTech
 sections:
   - type: hero_section
     title: BIOTECH INVESTMENT
-    subtitle: EXPAND YOUR BIOTECH PORTFOLIO THROUGH TECHNOLOGY
+    subtitle: EXPAND YOUR BIOTECH PORTFOLIO
     align: center
   - type: features_section
     features:
