@@ -5,8 +5,9 @@ sections:
     title: Forex & Crypto ETF
     align: center
   - type: content_section
-    content: |
-      Launching in Q2 2022, our quant-driven Forex & Crypto investment platform.
+    content: >
+      Launching in Q2 2022, our quant-driven Forex & Crypto investment
+      platform.![](/images/crypto_etf.jfif)
   - type: cta_section
     title: Join the Waitlist
     subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
