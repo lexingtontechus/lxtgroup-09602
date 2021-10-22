@@ -96,7 +96,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Subscribe To Our
+    title: Subscribe To Our Newsletter
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
