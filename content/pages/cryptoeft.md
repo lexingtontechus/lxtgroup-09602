@@ -9,7 +9,7 @@ sections:
       Launching in Q2 2022, our quant-driven Forex & Crypto investment platform.
   - type: cta_section
     title: Join the Waitlist
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Be a part of our Founders Club.
     actions:
       - label: Contact Us
         url: /contact
