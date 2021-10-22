@@ -1,5 +1,5 @@
 ---
-title: Services
+title: BioTech
 sections:
   - type: hero_section
     title: QUANTUM MANAGEMENT
