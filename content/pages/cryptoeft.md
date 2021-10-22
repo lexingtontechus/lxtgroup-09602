@@ -11,7 +11,7 @@ sections:
     title: Join the Waitlist
     subtitle: Be a part of our Founders Club.
     actions:
-      - label: Contact Us
+      - label: Join
         url: /contact
         style: secondary
     has_background: true
