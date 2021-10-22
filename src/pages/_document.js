@@ -33,7 +33,12 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}
                 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-                    </link></Head>
+                    </link>
+                    <script 
+  src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie_svg.min.js" 
+  type="text/javascript">
+</script>
+                    </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <NextScript />
