@@ -32,11 +32,7 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}
-                    <script id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=6615" async></script>
-                    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie_svg.min.js" type="text/javascript">
-                    </script>
-                    <script src="https://api.minymon.com/minymon.js" defer type="text/javascript">
-                    </script>
+                    
                     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
