@@ -39,8 +39,7 @@ export default class MyDocument extends Document {
                     src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie_svg.min.js" 
                     type="text/javascript">
                 </script>
-                <script 
-                    src="https://api.minymon.com/minymon.js" defer type="text/javascript">
+                <script src="https://api.minymon.com/minymon.js" defer type="text/javascript">
                 </script>
                     </Head>
                 <body {...this.helmetBodyAttrComponents}>
