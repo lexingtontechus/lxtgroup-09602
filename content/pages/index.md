@@ -58,7 +58,7 @@ sections:
         image_alt: Crypto EFT
         image_position: left
         actions:
-          - label: LAern More
+          - label: Learn More
             url: /cryptoeft
             style: secondary
       - title: Hyper Local Microservices
