@@ -13,7 +13,7 @@ sections:
 
           Sustainable & high yield foodtech products & water sources.
         align: left
-        image: /images/regenerate_agriculture.jpg
+        image: /images/plantbase_lavva.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
