@@ -16,7 +16,6 @@ export default class Footer extends React.Component {
         const links = _.get(footer, 'links');
 
         return (
-            
             <footer className="site-footer">
                 <div className="container container--lg">
                     {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (
@@ -48,8 +47,7 @@ export default class Footer extends React.Component {
                         ))}
                     </div>
                 </div>
-                
-            /</footer>
+            </footer>
         );
     }
 }
