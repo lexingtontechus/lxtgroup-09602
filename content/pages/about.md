@@ -26,6 +26,9 @@ sections:
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
+  - title: lorem-ipsum
+    team: []
+    type: team_section
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
