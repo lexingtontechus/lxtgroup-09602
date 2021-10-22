@@ -9,7 +9,9 @@ sections:
     features:
       - title: FoodTech
         content: |
-          Sustainable & high yield foodtech products.
+          The future of food - technology meets future needs.
+
+          Sustainable & high yield foodtech products & water sources.
         align: left
         image: /images/foodtech-eac94628.jfif
         image_alt: Feature 1 placeholder image
