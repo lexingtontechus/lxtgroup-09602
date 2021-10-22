@@ -12,6 +12,8 @@ sections:
           The future of food - technology meets future needs.
 
           Sustainable & high yield foodtech products & water sources.
+
+          Future of eCommerce powered by virtual & augmented reality.
         align: left
         image: /images/plantbase_lavva.jpg
         image_alt: Feature 1 placeholder image
