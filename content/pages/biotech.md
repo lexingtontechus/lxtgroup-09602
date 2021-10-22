@@ -15,7 +15,7 @@ sections:
 
           Future of eCommerce powered by virtual & augmented reality.
         align: left
-        image: /images/plantbase_lavva.jpg
+        image: /images/food_evolution.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
