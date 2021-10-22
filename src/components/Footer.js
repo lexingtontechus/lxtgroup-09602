@@ -47,16 +47,7 @@ export default class Footer extends React.Component {
                         ))}
                     </div>
                 </div>
-                <script id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=6615" async></script>
-                <script 
-                    src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie_svg.min.js" 
-                    type="text/javascript">
-                </script>
-                <script 
-                    src="https://api.minymon.com/minymon.js" 
-                    defer
-                    type="text/javascript">
-                </script>
+                
                 <div style="position:relative;z-index:2147483647">
                 <minymon-body enableFeed="true" enableTalk="true" idsString="MWFkZmVkMjctYmM0Ny00ZjgyLWEwMGQtYjI2ODUyOWUzY2JkLmR0YVZOeWd1UG1wRHl5dHpqWFRaZA==" infoTitle="Hi there!" theme="gray">
                     <minymon-feedback description="Your message will be sent to the owner of this site." mid="1adfed27-bc47-4f82-a00d-b268529e3cbd" theme="gray" uid="dtaVNyguPmpDyytzjXTZd">
