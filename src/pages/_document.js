@@ -40,12 +40,7 @@ export default class MyDocument extends Document {
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <div class="minymon">
-  <minymon-body enableFeed="true" enableTalk="true" idsString="MWFkZmVkMjctYmM0Ny00ZjgyLWEwMGQtYjI2ODUyOWUzY2JkLmR0YVZOeWd1UG1wRHl5dHpqWFRaZA==" infoTitle="Hi there!" theme="gray">
-    <minymon-feedback description="Your message will be sent to the owner of this site." mid="1adfed27-bc47-4f82-a00d-b268529e3cbd" theme="gray" uid="dtaVNyguPmpDyytzjXTZd">
-    </minymon-feedback>
-  </minymon-body>
-</div>
-                    <Main />
+                      <Main />
                     <NextScript />
                 </body>
                 
