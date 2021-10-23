@@ -31,6 +31,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions: []
+        image: /images/crypto_etf-283ab3fe.jfif
     type: features_section
 seo:
   title: Who We Are
