@@ -107,7 +107,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: LXT Group LLC
+  title: LXT GROUP LLC
   description: >-
     LXT Group LLC | Quantum Management - Investing in FoodTech, Crypto EFT &
     Smart Services
