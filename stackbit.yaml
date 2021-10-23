@@ -725,9 +725,10 @@ models:
         type: string
         label: Image Alt Text
     labelField: Title
-  markup:
+  markdown:
     type: object
     label: Markup Section
     fields:
       - name: markdown
         type: markdown
+        label: Markdown
