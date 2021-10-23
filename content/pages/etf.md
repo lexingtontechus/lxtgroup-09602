@@ -4,18 +4,6 @@ sections:
   - type: hero_section
     title: Forex & Crypto ETF
     align: center
-  - title: lorem-ipsum
-    features:
-      - title: lorem-ipsum
-        content: >+
-          Launching in Q2 2022, our quant-driven Forex & Crypto investment
-          platform.
-
-        align: left
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
-    type: features_section
   - type: cta_section
     title: Join the Waitlist
     subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
