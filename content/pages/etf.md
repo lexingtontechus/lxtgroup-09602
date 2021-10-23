@@ -7,9 +7,8 @@ sections:
   - title: Forex & Crypto ETF
     features:
       - title: LAUNCHING Q2 2022
-        content: >+
-          Launching in Q2 2022, our quant-driven Forex & Crypto investment
-          platform.
+        content: >
+          A quant-driven Forex & Crypto investment platform.
 
 
           Predicting specific market conditions to produce exceptional returns
@@ -18,9 +17,6 @@ sections:
 
           Create superior investment returns by means of acquiring value-add
           income assets & properties
-
-
-
         align: left
         image_alt: lorem-ipsum
         image_position: left
