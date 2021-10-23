@@ -109,8 +109,8 @@ sections:
 seo:
   title: LXT GROUP LLC
   description: >-
-    LXT Group LLC | Quantum Management - Investing in FoodTech, Crypto EFT &
-    Smart Services
+    LXT GROUP LLC | Quantum Management - Investing in BioTech, Crypto EFT &
+    Smart Microservices
   extra:
     - name: 'og:type'
       value: website
