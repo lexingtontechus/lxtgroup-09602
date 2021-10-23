@@ -730,4 +730,4 @@ models:
     label: Markup Section
     fields:
       - name: ''
-        type: string
+        type: markdown
