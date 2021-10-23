@@ -104,7 +104,7 @@ sections:
       - label: Subscribe
         url: /features
         style: primary
-    has_background: false
+    has_background: true
     background_color: blue
 seo:
   title: LXT GROUP LLC
