@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Quantum Management
+    title: QUANTUM MANAGEMENT
     subtitle: >-
       Investing in future of FoodTech, PharmaTech, Crypto EFT & Hyper Local
       Microservices.
