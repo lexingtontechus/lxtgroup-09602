@@ -26,7 +26,7 @@ sections:
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
-  - title: lorem-ipsum
+  - title: OUR SERVICES
     team:
       - content/data/team/person-w0krrnxnl.json
     type: team_section
