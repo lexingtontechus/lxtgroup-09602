@@ -725,3 +725,6 @@ models:
         type: string
         label: Image Alt Text
     labelField: Title
+  markup:
+    type: object
+    label: markup
