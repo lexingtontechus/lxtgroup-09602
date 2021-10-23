@@ -727,4 +727,7 @@ models:
     labelField: Title
   markup:
     type: object
-    label: markup
+    label: Markup Section
+    fields:
+      - name: ''
+        type: string
