@@ -725,7 +725,7 @@ models:
         type: string
         label: Image Alt Text
     labelField: Title
-  htmll_section:
+  html_section:
     type: object
     label: Html Section
     fields:
