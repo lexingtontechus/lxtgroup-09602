@@ -725,7 +725,7 @@ models:
         type: string
         label: Image Alt Text
     labelField: Title
-  markdown_section:
+  htmll_section:
     type: object
     label: Markdown Section
     fields:
@@ -738,3 +738,4 @@ models:
       - name: type
         type: string
         label: Object Type
+    labelField: title
