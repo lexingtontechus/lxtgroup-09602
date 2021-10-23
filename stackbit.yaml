@@ -727,7 +727,7 @@ models:
     labelField: Title
   markdown:
     type: object
-    label: Markup Section
+    label: Markdown Section
     fields:
       - name: markdown
         type: markdown
