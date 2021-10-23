@@ -8,6 +8,19 @@ sections:
     content: >
       Launching in Q2 2022, our quant-driven Forex & Crypto investment
       platform.![](/images/crypto_etf.jfif)
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: cta_section
     title: Join the Waitlist
     subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
