@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Our Business
     features:
-      - title: Bio-Technology
+      - title: B
         content: >
           Advances in food technology spans from replacement food sources to
           synthetic replacements of biopharma applications.
