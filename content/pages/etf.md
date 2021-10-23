@@ -15,7 +15,7 @@ sections:
     background_color: blue
   - title: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: LAUNCHING Q2 2022
         content: >-
           ## Lorem ipsum
 
