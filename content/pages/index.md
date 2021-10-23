@@ -119,7 +119,7 @@ seo:
       value: LXT GROUP LLC
       keyName: property
     - name: 'og:image'
-      value: /images/svgexport-84.svg
+      value: /images/logo_lxtgroup_eagle.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
