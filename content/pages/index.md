@@ -95,17 +95,6 @@ sections:
     title: WHAT'S NEW
     show_recent: true
     recent_count: 3
-  - type: cta_section
-    title: Subscribe To Our Newsletter
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Subscribe
-        url: /features
-        style: primary
-    has_background: true
-    background_color: blue
 seo:
   title: LXT GROUP LLC
   description: >-
