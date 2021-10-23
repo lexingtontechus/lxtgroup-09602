@@ -4,15 +4,6 @@ sections:
   - type: hero_section
     title: Forex & Crypto ETF
     align: center
-  - type: cta_section
-    title: Join the Waitlist
-    subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
-    actions:
-      - label: SUBSCRIBE
-        url: /contact
-        style: primary
-    has_background: true
-    background_color: blue
   - title: Forex & Crypto ETF
     features:
       - title: LAUNCHING Q2 2022
@@ -25,6 +16,15 @@ sections:
         actions: []
         image: /images/crypto_etf-283ab3fe.jfif
     type: features_section
+  - type: cta_section
+    title: Join the Waitlist
+    subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
+    actions:
+      - label: SUBSCRIBE
+        url: /contact
+        style: primary
+    has_background: true
+    background_color: blue
 seo:
   title: Who We Are
   description: This is the about us page
