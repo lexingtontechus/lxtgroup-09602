@@ -18,6 +18,10 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
+  - title: OUR SERVICES
+    team:
+      - content/data/team/person-w0krrnxnl.json
+    type: team_section
   - type: team_section
     title: Our Team
     team:
@@ -26,10 +30,6 @@ sections:
       - content/data/team/eleanor-carr.yaml
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
-  - title: OUR SERVICES
-    team:
-      - content/data/team/person-w0krrnxnl.json
-    type: team_section
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
