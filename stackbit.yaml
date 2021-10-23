@@ -737,3 +737,4 @@ models:
         label: Markdown
       - name: type
         type: string
+        label: Object Type
