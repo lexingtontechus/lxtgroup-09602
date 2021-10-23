@@ -25,7 +25,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: /images/1.png
   - type: features_section
-    title: Our Business
+    title: OUR BUSINESS
     features:
       - title: BIO-TECHNOLOGY
         content: >
