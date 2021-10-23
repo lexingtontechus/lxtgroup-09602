@@ -61,7 +61,7 @@ sections:
           - label: Learn More
             url: /cryptoeft
             style: secondary
-      - title: Hyper Local Microservices
+      - title: HYPER LOCAL MICROSERVICES
         content: >
           Investing in new local business opportunities in Los Angeles, CA &
           Orange County, CA.
