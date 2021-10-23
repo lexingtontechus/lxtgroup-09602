@@ -59,6 +59,12 @@ export default class Body extends React.Component {
                     </main>
                     <Footer config={config} />
                 </div>
+                <div style="position:relative;z-index:2147483647">
+  <minymon-body enableFeed="true" enableTalk="true" idsString="MWFkZmVkMjctYmM0Ny00ZjgyLWEwMGQtYjI2ODUyOWUzY2JkLmR0YVZOeWd1UG1wRHl5dHpqWFRaZA==" infoTitle="Hi there!" theme="gray">
+    <minymon-feedback description="Your message will be sent to the owner of this site." mid="1adfed27-bc47-4f82-a00d-b268529e3cbd" theme="gray" uid="dtaVNyguPmpDyytzjXTZd">
+    </minymon-feedback>
+  </minymon-body>
+</div>
             </React.Fragment>
         );
     }
