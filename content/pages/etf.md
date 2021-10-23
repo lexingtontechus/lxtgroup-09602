@@ -13,7 +13,7 @@ sections:
         style: primary
     has_background: true
     background_color: blue
-  - title: lorem-ipsum
+  - title: Forex & Crypto ETF
     features:
       - title: LAUNCHING Q2 2022
         content: |+
