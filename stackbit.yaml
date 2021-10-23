@@ -729,5 +729,5 @@ models:
     type: object
     label: Markup Section
     fields:
-      - name: ''
+      - name: markdown
         type: markdown
