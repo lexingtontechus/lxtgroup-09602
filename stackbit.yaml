@@ -732,5 +732,5 @@ models:
       - name: markdown
         type: markdown
         label: Markdown
-      - name: ''
+      - name: title
         type: string
