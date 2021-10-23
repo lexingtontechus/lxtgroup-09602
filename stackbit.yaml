@@ -727,7 +727,7 @@ models:
     labelField: Title
   htmll_section:
     type: object
-    label: Markdown Section
+    label: Html Section
     fields:
       - name: title
         type: string
