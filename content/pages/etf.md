@@ -8,6 +8,9 @@ sections:
     features:
       - title: LAUNCHING Q2 2022
         content: >
+          \<div>hello\</div>
+
+
           A quant-driven Forex & Crypto investment platform.
 
 
