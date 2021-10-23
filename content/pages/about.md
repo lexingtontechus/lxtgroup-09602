@@ -27,7 +27,8 @@ sections:
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-w0krrnxnl.json
     type: team_section
   - type: cta_section
     title: Join the Team
