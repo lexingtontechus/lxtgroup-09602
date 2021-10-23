@@ -13,6 +13,9 @@ sections:
         style: primary
     has_background: true
     background_color: blue
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Who We Are
   description: This is the about us page
