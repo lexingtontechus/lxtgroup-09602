@@ -118,9 +118,6 @@ seo:
     - name: 'og:title'
       value: LXT GROUP LLC
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Starter theme
-      keyName: property
     - name: 'og:image'
       value: /images/svgexport-84.svg
       keyName: property
