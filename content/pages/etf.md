@@ -2,7 +2,7 @@
 title: Forex & Crypto EFT
 sections:
   - type: hero_section
-    title: Forex & Crypto ETF
+    title: INVESTMENT MANAGEMENT
     align: center
   - title: Forex & Crypto ETF
     features:
