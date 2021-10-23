@@ -21,6 +21,9 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
   - type: cta_section
     title: Join the Waitlist
     subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
