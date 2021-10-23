@@ -4,10 +4,6 @@ sections:
   - type: hero_section
     title: Forex & Crypto ETF
     align: center
-  - type: content_section
-    content: >
-      Launching in Q2 2022, our quant-driven Forex & Crypto investment
-      platform.![](/images/crypto_etf.jfif)
   - title: lorem-ipsum
     features: []
     type: features_section
