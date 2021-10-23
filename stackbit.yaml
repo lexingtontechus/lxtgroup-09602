@@ -734,7 +734,7 @@ models:
         label: Title
       - name: html
         type: html
-        label: Markdown
+        label: Html
       - name: type
         type: string
         label: Object Type
