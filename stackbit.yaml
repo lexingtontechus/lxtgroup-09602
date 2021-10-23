@@ -734,3 +734,4 @@ models:
         label: Markdown
       - name: title
         type: string
+        label: Title
