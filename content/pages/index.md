@@ -106,10 +106,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    content: |
-      **\<div class="convertful-148239">\</div>**
-    type: content_section
 seo:
   title: LXT Group LLC
   description: >-
