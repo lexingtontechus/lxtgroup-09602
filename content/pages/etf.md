@@ -7,17 +7,10 @@ sections:
   - title: lorem-ipsum
     features:
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Launching in Q2 2022, our quant-driven Forex & Crypto investment
+          platform.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         align: left
         image_alt: lorem-ipsum
         image_position: left
