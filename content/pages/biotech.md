@@ -26,7 +26,7 @@ sections:
         content: |
           Synthetic & biotech inventions & startups.
         align: left
-        image: images/feature.svg
+        image: /images/biotech.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
