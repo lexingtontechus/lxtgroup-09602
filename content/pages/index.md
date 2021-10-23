@@ -116,7 +116,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: LXT GROUP LLC
       keyName: property
     - name: 'og:description'
       value: The preview of the Starter theme
