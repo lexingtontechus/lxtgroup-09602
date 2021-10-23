@@ -49,7 +49,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Crypto EFT
+      - title: EXCHANGE TRADED FUNDS (EFT)
         content: >
           In Q2 2022, our FinTech initiative will launch a multi-asset forex &
           crypto brokerage service.
