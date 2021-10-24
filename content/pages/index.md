@@ -59,7 +59,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /eft
+            url: /etf
             style: secondary
       - title: HYPER LOCAL MICROSERVICES
         content: >
