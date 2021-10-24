@@ -13,7 +13,7 @@ export default class HtmlSection extends React.Component {
             <section className="section">
                 <div className="container container--md">
                     {title && <h2 className="section__title align-center">{title}</h2>}
-                    {content && <div className="section__copy">{html(content)}</div>}
+                    {content && <div className="section__copy">{htmlt(content)}</div>}
                 </div>
             </section>
         );
