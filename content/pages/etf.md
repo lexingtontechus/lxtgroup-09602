@@ -24,7 +24,7 @@ sections:
         image: /images/crypto_etf-283ab3fe.jfif
     type: features_section
   - type: cta_section
-    title: Join the Waitlist
+    title: Find Out More
     subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
     actions:
       - label: SUBSCRIBE
