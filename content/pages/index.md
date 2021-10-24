@@ -59,7 +59,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /cryptoeft
+            url: /eft
             style: secondary
       - title: HYPER LOCAL MICROSERVICES
         content: >
