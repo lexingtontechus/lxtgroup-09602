@@ -25,7 +25,7 @@ sections:
     type: features_section
   - type: cta_section
     title: Find Out More
-    subtitle: Subscribe to receive an invitation to be a part of our Founders Club.
+    subtitle: 'Our '
     actions:
       - label: SUBSCRIBE
         url: /contact
