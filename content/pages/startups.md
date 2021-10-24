@@ -23,8 +23,21 @@ sections:
             url: /about
             style: primary
       - title: Transportation Service
-        content: |
-          Synthetic & biotech inventions & startups.
+        content: >
+          Launch a hyper-local transportation service that caters to your niche
+          market, e.g.
+
+
+          *   Local business routes
+
+
+          *   Welfare causes
+
+
+          *   Afterschool pickup
+
+
+          *   Senior citizens
         align: left
         image: /images/biotech.png
         image_alt: Feature 2 placeholder image
