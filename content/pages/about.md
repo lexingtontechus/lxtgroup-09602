@@ -2,7 +2,9 @@
 title: Who We Are
 sections:
   - title: Who We Are
-    subtitle: "The art of\_Quantum\_Management\_lies in discovering methods for gathering information about the unobservable and preparing for all forms of success and failure while keeping the box closed. An effective\_quantum\_manager will resist super-\"imposing\" and instead ensure superposition. Layering this practice with advanced & intuitive Artificial Intelligence insights enables LXT GROUP to grow our investment portfolio via our own exchange & brokerage service."
+    subtitle: >-
+      LXT GROUP is a team of investors & technologists creating new business and
+      investment projects through our Quantum Management methodology.
     actions: []
     align: left
     image_alt: lorem-ipsum
