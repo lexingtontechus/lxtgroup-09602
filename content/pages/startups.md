@@ -41,7 +41,7 @@ sections:
 
           *   Senior citizens
         align: left
-        image: /images/biotech.png
+        image: /images/delivery_transportation.jfif
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
