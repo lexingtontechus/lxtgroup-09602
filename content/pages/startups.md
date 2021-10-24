@@ -13,7 +13,7 @@ sections:
           models.
 
         align: left
-        image: /images/delivery_medical.png
+        image: /images/delivery_food.jfif
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
