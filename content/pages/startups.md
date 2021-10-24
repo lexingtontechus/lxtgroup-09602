@@ -3,7 +3,7 @@ title: BioTech
 sections:
   - type: hero_section
     title: HYPER LOCAL MICROSERVICES
-    subtitle: EXPAND YOUR BIOTECH PORTFOLIO
+    subtitle: Accelerated Startup Business Investment
     align: center
   - type: features_section
     features:
