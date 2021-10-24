@@ -47,7 +47,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /botech
             style: secondary
       - title: EXCHANGE TRADED FUNDS (EFT)
         content: >
