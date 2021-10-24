@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: FoodTech
+      - title: Food Delivery / Cloud Kitchens
         content: |
           The future of food - technology meets future needs.
 
