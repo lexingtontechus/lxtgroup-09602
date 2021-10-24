@@ -14,7 +14,7 @@ import Icon from './Icon';
 import Layout from './Layout';
 import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
-
+import HtmlSection from './HtmlSection';
 
 export {
     Action,
