@@ -9,7 +9,7 @@ sections:
       LXT GROUP is a team of investors & technologists creating new business and
       investment projects through our Quantum Management methodology.
 
-  - title: lorem-ipsum
+  - title: Quantum Management
     subtitle: lorem-ipsum
     actions: []
     align: left
