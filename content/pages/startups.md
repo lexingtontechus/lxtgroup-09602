@@ -34,10 +34,33 @@ sections:
             url: /style-guide
             style: primary
       - title: Dispatch & Delivery
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >+
+          Your customers to conduct orders, make payments, track and
+          electronically confirm deliveries
+
+
+          Your delivery fleet can accept, manage and carry out delivery orders.
+
+
+
+          ### Supported Business Models
+
+
+          Food Delivery
+
+
+          Parcel Delivery
+
+
+          Medical Delivery
+
+
+          Logistics Service
+
+
+          Alcohol Delivery
+
+
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
