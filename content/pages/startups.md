@@ -16,10 +16,7 @@ sections:
         image: /images/delivery_food.jfif
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
       - title: Transportation Service
         content: >
           Supporting Transportation Service Companies & Transportation Service
