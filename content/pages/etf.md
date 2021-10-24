@@ -25,7 +25,7 @@ sections:
     type: features_section
   - type: cta_section
     title: Find Out More
-    subtitle: Our team will guide you
+    subtitle: 'Our team will guide you through a '
     actions:
       - label: CONTACT
         url: /contact
