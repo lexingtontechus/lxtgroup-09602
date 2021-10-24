@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-export default class ContactSection extends React.Component {
+export default class HtmlSection extends React.Component {
     render() {
         const section = _.get(this.props, 'section');
         const title = _.get(section, 'title');
