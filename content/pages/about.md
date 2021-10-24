@@ -19,6 +19,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+    image: /images/beach_earning20-eba07716.jfif
   - type: team_section
     title: Our Team
     team:
