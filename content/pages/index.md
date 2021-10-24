@@ -8,7 +8,7 @@ sections:
       Microservices.
     actions:
       - label: Learn More
-        url: /etf
+        url: /about
         style: primary
       - label: Contact Us
         url: /contact
