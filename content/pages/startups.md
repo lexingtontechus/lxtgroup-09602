@@ -29,10 +29,7 @@ sections:
         image: /images/biotech.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
+        actions: []
       - title: Dispatch & Delivery
         content: >+
           Your customers to conduct orders, make payments, track and
