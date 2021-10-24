@@ -5,7 +5,10 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: "LXT GROUP is a team of investors & technologists creating new business and investment projects through our Quantum Management methodology.\n\nQuantum Management:\n\nThe art of\_**Quantum**\_M**anagement**\_lies in discovering methods for gathering information about the unobservable and preparing for all forms of success and failure while keeping the box closed. An effective\_**quantum**\_manager will resist super-\"imposing\" and instead ensure superposition.\n\nLayering this practice with advanced & intuitive Artificial Intelligence insights enables LXT GROUP to grow our investment portfolio via our own exchange & brokerage service.\n\n.![](/images/beach_earning20.jfif)\n\n"
+    content: >+
+      LXT GROUP is a team of investors & technologists creating new business and
+      investment projects through our Quantum Management methodology.
+
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
