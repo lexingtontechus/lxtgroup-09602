@@ -27,7 +27,7 @@ sections:
     title: Find Out More
     subtitle: 'Our team will '
     actions:
-      - label: SUBSCRIBE
+      - label: CONTACT
         url: /contact
         style: primary
     has_background: true
