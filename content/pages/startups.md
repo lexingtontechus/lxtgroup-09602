@@ -29,7 +29,12 @@ sections:
         image: /images/biotech.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
       - title: Dispatch & Delivery
         content: >+
           Your customers to conduct orders, make payments, track and
