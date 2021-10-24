@@ -8,7 +8,7 @@ sections:
       Microservices.
     actions:
       - label: Learn More
-        url: /features
+        url: /biotech
         style: primary
       - label: Contact Us
         url: /contact
