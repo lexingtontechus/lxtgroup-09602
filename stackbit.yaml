@@ -713,7 +713,7 @@ models:
   etf:
     type: data
     label: EFT
-    folder: Festures Crypto
+    folder: Features Crypto
     fields:
       - name: Title
         type: string
