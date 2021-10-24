@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import { markdownify } from '../utils';
 
-export default class ContentSection extends React.Component {
+export default class HtmlSection extends React.Component {
     render() {
         const section = _.get(this.props, 'section');
         const title = _.get(section, 'title');
