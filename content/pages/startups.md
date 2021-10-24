@@ -13,7 +13,7 @@ sections:
           models.
 
         align: left
-        image: /images/foodlovestech.jfif
+        image: /images/delivery_medical.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
