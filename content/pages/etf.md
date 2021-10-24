@@ -25,7 +25,7 @@ sections:
     type: features_section
   - type: cta_section
     title: Find Out More
-    subtitle: 'Our '
+    subtitle: 'Our team will '
     actions:
       - label: SUBSCRIBE
         url: /contact
