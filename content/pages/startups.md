@@ -22,7 +22,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: PharmaTech
+      - title: Transportation Service
         content: |
           Synthetic & biotech inventions & startups.
         align: left
