@@ -10,7 +10,7 @@ sections:
       investment projects through our Quantum Management methodology.
 
   - title: Quantum Management
-    subtitle: "Quantum Management: The art of\_Quantum\_Management\_lies in discovering methods for gathering information about the unobservable and preparing for all forms of success and failure while keeping the box closed. An effective\_quantum\_manager will resist super-\"imposing\" and instead ensure superposition. Layering this practice with advanced & intuitive Artificial Intelligence insights enables LXT GROUP to grow our investment portfolio via our own exchange & brokerage service. ."
+    subtitle: "The art of\_Quantum\_Management\_lies in discovering methods for gathering information about the unobservable and preparing for all forms of success and failure while keeping the box closed. An effective\_quantum\_manager will resist super-\"imposing\" and instead ensure superposition. Layering this practice with advanced & intuitive Artificial Intelligence insights enables LXT GROUP to grow our investment portfolio via our own exchange & brokerage service. ."
     actions: []
     align: left
     image_alt: lorem-ipsum
