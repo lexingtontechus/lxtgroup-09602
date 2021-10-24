@@ -12,11 +12,11 @@ sections:
 
 
           Predicting specific market conditions to produce exceptional returns
-          to investors while containing risk
+          to investors while containing risk.
 
 
           Create superior investment returns by means of acquiring value-add
-          income assets & properties
+          income assets & properties.
         align: left
         image_alt: lorem-ipsum
         image_position: left
