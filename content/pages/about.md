@@ -18,6 +18,7 @@ sections:
   - type: hero_section
     title: Who We Are
     align: center
+    image: /images/biotech.png
   - type: content_section
     content: >+
       LXT GROUP is a team of investors & technologists creating new business and
