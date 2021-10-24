@@ -8,12 +8,10 @@ sections:
   - type: features_section
     features:
       - title: Food Delivery / Cloud Kitchens
-        content: |
-          The future of food - technology meets future needs.
+        content: >+
+          Supporting restaurants, food networks & cloud kitchens business
+          models.
 
-          Sustainable & high yield foodtech products & water sources.
-
-          Future of eCommerce powered by virtual & augmented reality.
         align: left
         image: /images/foodlovestech.jfif
         image_alt: Feature 1 placeholder image
