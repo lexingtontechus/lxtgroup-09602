@@ -28,8 +28,7 @@
                 "style": "primary"
             }
         ],
-        "logo_alt": "LXT GROUP LLC",
-        "logo": "/images/logo_lxtgroup_eagle.png"
+        "logo_alt": "LXT GROUP LLC"
     },
     "footer": {
         "has_nav": true,
