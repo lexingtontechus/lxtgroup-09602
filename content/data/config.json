@@ -28,7 +28,8 @@
                 "style": "primary"
             }
         ],
-        "logo_alt": "LXT GROUP LLC"
+        "logo_alt": "LXT GROUP LLC",
+        "logo": "/images/svgexport-85.png"
     },
     "footer": {
         "has_nav": true,
