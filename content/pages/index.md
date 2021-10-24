@@ -89,7 +89,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /startups
             style: secondary
   - type: blog_feed_section
     title: WHAT'S NEW
