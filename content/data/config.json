@@ -25,6 +25,13 @@
                 "no_follow": false
             },
             {
+                "label": "Startups",
+                "url": "/startups",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "About",
                 "url": "/about",
                 "style": "link"
@@ -33,13 +40,6 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Startups",
-                "url": "/startups",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "logo_alt": "LXT GROUP LLC"
