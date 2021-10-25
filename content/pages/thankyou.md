@@ -5,7 +5,7 @@ sections:
     title: Thank You
     align: center
   - type: hero_section
-    image: /images/thankyou2.jfif
+    image: /images/minymon6.svg
     title: Our Minymon concierge is here to help you too!
     image_position: right
 seo:
