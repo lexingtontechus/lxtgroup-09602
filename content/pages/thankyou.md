@@ -7,7 +7,7 @@ sections:
   - type: hero_section
 seo:
   title: Thank You
-  description: This is the contact page
+  description: This is the contact thank youpage
   extra:
     - name: 'og:type'
       value: website
