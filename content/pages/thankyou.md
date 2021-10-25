@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: Thank You For Contacting Us
 sections:
   - type: hero_section
     title: Thank You
