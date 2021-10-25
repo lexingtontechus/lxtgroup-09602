@@ -7,6 +7,7 @@ sections:
   - type: hero_section
     image: /images/thankyou2.jfif
     title: Our Minymon concierge is here to help you too!
+    image_position: right
 seo:
   title: Thank You
   description: This is the contact thank youpage
