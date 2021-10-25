@@ -21,13 +21,46 @@ seo:
       value: This is the privacy and terms page
 layout: page
 ---
+## Who we are
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam. In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
+LXT GROUP LLC - https://lxtgroup.nft
 
-Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue. Eget arcu dictum varius duis at consectetur lorem. Pellentesque pulvinar pellentesque habitant morbi tristique. Sagittis nisl rhoncus mattis rhoncus urna neque. In eu mi bibendum neque egestas congue. Et malesuada fames ac turpis egestas.
+## What personal data we collect and why we collect it
 
-Consequat id porta nibh venenatis cras sed felis eget velit. Nunc vel risus commodo viverra maecenas accumsan. Congue quisque egestas diam in. Ultricies mi quis hendrerit dolor magna eget est. Duis at tellus at urna. Etiam tempor orci eu lobortis elementum nibh tellus molestie nunc. Et egestas quis ipsum suspendisse ultrices gravida dictum. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Mauris nunc congue nisi vitae. Venenatis tellus in metus vulputate eu scelerisque felis. Ultrices in iaculis nunc sed augue lacus. Eu lobortis elementum nibh tellus molestie nunc. Faucibus nisl tincidunt eget nullam non nisi est.
+### Comments
 
-Sagittis vitae et leo duis. Et magnis dis parturient montes nascetur ridiculus mus. Dui vivamus arcu felis bibendum ut. Et netus et malesuada fames ac. Mollis aliquam ut porttitor leo a diam sollicitudin. Elit at imperdiet dui accumsan sit. Justo eget magna fermentum iaculis. Turpis tincidunt id aliquet risus feugiat. Dictumst vestibulum rhoncus est pellentesque elit. Dolor magna eget est lorem ipsum dolor. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Metus vulputate eu scelerisque felis imperdiet proin. Congue nisi vitae suscipit tellus mauris. Sed blandit libero volutpat sed cras ornare arcu dui vivamus. Scelerisque purus semper eget duis at tellus at urna condimentum. Elit ut aliquam purus sit amet luctus venenatis lectus magna. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-Neque sodales ut etiam sit amet. Magna ac placerat vestibulum lectus mauris ultrices. Turpis massa tincidunt dui ut ornare lectus sit amet est. Sed vulputate mi sit amet mauris commodo quis. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Eget nullam non nisi est sit amet facilisis. Sem viverra aliquet eget sit amet tellus cras. Massa eget egestas purus viverra accumsan in nisl nisi scelerisque. Gravida arcu ac tortor dignissim convallis aenean. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Egestas dui id ornare arcu odio ut sem. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Nibh sit amet commodo nulla. Feugiat scelerisque varius morbi enim nunc. Blandit turpis cursus in hac habitasse platea dictumst quisque sagittis. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Eu mi bibendum neque egestas. At lectus urna duis convallis. Gravida quis blandit turpis cursus.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Contact forms
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
