@@ -5,7 +5,7 @@ sections:
     title: Thank You
     align: center
   - type: hero_section
-    image: /images/thankyou.jfif
+    image: /images/thankyou2.jfif
     title: We will be in touch soon to answer your inquiry!
 seo:
   title: Thank You
