@@ -5,7 +5,7 @@ sections:
     title: BIOTECH INVESTMENT
     subtitle: EXPAND YOUR BIOTECH PORTFOLIO
     align: center
-    has_background: true
+    has_background: false
   - type: features_section
     features:
       - title: FoodTech
