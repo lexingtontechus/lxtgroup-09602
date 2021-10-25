@@ -6,7 +6,7 @@ sections:
     align: center
   - type: hero_section
     image: /images/thankyou.jfif
-    title: We will be in touch soon!
+    title: We will be in touch soon to answer your inquiry!
 seo:
   title: Thank You
   description: This is the contact thank youpage
