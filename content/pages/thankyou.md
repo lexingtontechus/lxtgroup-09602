@@ -6,7 +6,7 @@ sections:
     align: center
   - type: hero_section
     image: /images/thankyou2.jfif
-    title: We will be in touch soon to answer your inquiry!
+    title: Consult with our Minymon if you need
 seo:
   title: Thank You
   description: This is the contact thank youpage
