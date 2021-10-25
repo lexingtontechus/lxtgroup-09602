@@ -16,7 +16,7 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is the contact thank you page
       keyName: property
     - name: 'twitter:card'
       value: summary
