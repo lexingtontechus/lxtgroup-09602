@@ -6,6 +6,7 @@ sections:
     subtitle: EXPAND YOUR BIOTECH PORTFOLIO
     align: center
     has_background: true
+    image: /images/1.png
   - type: features_section
     features:
       - title: FoodTech
