@@ -6,6 +6,7 @@ sections:
     align: center
   - type: hero_section
     image: /images/thankyou.jfif
+    title: 'We will '
 seo:
   title: Thank You
   description: This is the contact thank youpage
