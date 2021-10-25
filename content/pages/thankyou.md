@@ -2,7 +2,7 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Contact
+    title: Thank You
     align: center
   - type: contact_section
 seo:
