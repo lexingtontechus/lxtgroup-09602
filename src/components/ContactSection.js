@@ -9,8 +9,7 @@ export default class ContactSection extends React.Component {
         return (
             <section className="section">
                 <div className="container container--md">
-                    {title && <h2 className="section__title align-center">{title}</h2>}
-                    <form name="contactForm" id="contactForm" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+                    <div class="convertful-148367"></div>
                         <div className="sr-only">
                             <label id="honeypot-label" htmlFor="honeypot">Don't fill this out if you're human:</label>
                             <input aria-labelledby="honeypot-label" id="honeypot" name="bot-field" />
