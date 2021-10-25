@@ -21,11 +21,7 @@ seo:
       value: This is the privacy and terms page
 layout: page
 ---
-## Who we are
-
-LXT GROUP LLC - https://lxtgroup.nft
-
-## What personal data we collect and why we collect it
+## Personal Data - what we collect and why
 
 ### Comments
 
