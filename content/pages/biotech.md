@@ -35,7 +35,7 @@ sections:
             url: /style-guide
             style: primary
   - title: BIOTECH INVESTMENT
-    subtitle: lorem-ipsum
+    subtitle: Focusing on start-ups and advanced technologies in the bio-tech field.
     actions: []
     align: left
     image_alt: lorem-ipsum
