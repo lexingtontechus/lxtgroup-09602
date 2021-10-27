@@ -76,7 +76,7 @@ sections:
         image_position: right
         actions: []
 seo:
-  title: Features
+  title: Startups
   description: Hyper-local Microservices - Accelerated Startup Business Investment
   extra:
     - name: 'og:type'
