@@ -89,7 +89,7 @@ seo:
       value: This is the features page
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: /images/hyperlocal.jfif
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
