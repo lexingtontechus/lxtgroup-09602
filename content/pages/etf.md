@@ -34,7 +34,7 @@ sections:
     background_color: blue
 seo:
   title: ETF
-  description: This is the about us page
+  description: Investment Management - Forex & Crypto ETF
   extra:
     - name: 'og:type'
       value: website
