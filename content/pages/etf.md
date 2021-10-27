@@ -33,7 +33,7 @@ sections:
     has_background: true
     background_color: blue
 seo:
-  title: Who We Are
+  title: ETF
   description: This is the about us page
   extra:
     - name: 'og:type'
