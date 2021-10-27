@@ -56,7 +56,7 @@ seo:
       value: BioTech
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: BioTech Investment in Plant-Based and Cell-Based innovations & Startups.
       keyName: property
     - name: 'og:image'
       value: images/5.png
