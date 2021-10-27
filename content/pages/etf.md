@@ -40,7 +40,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Who We Are
+      value: ETF
       keyName: property
     - name: 'og:description'
       value: This is the about us page
