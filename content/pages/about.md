@@ -38,7 +38,7 @@ sections:
     has_background: true
     background_color: blue
 seo:
-  title: bout
+  title: About
   description: This is the about page of LXT GROUP LLC.
   extra:
     - name: 'og:type'
