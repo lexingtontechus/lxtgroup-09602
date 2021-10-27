@@ -45,7 +45,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: This is the about page of LXT GROUP LLC.
+      value: LXT GROUP LLC.
       keyName: property
     - name: 'og:description'
       value: This is the about page of LXT GROUP LLC.
