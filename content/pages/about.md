@@ -39,7 +39,7 @@ sections:
     background_color: blue
 seo:
   title: bout
-  description: This is the about us page
+  description: This is the about LXT GROUP LLC.
   extra:
     - name: 'og:type'
       value: website
