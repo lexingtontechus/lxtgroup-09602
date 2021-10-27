@@ -47,7 +47,7 @@ sections:
             style: primary
 seo:
   title: BioTech
-  description: This is the features page
+  description: BioTech Investment in Plant-Based and Cell-Based innovations & Startups.
   extra:
     - name: 'og:type'
       value: website
