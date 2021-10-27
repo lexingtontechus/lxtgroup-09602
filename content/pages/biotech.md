@@ -59,7 +59,7 @@ seo:
       value: BioTech Investment in Plant-Based and Cell-Based innovations & Startups.
       keyName: property
     - name: 'og:image'
-      value: images/5.png
+      value: /images/food_evolution.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
