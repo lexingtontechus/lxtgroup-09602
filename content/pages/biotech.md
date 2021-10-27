@@ -34,7 +34,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-  - title: 'BIO TECH '
+  - title: BIOTECH INVESTMENT
     subtitle: lorem-ipsum
     actions: []
     align: left
