@@ -43,7 +43,7 @@ seo:
       value: ETF
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Investment Management - Forex & Crypto ETF
       keyName: property
     - name: 'og:image'
       value: images/1.png
