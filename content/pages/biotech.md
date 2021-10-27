@@ -1,6 +1,20 @@
 ---
 title: BioTech
 sections:
+  - title: BIOTECH INVESTMENT
+    subtitle: Focusing on start-ups and advanced technologies in the bio-tech field.
+    actions: []
+    align: left
+    image_alt: lorem-ipsum
+    image_position: left
+    has_background: true
+    background:
+      background_color: white
+      background_image_opacity: 0
+      background_image_size: cover
+      background_image_repeat: no-repeat
+      background_image: /images/food_evolution.png
+    type: hero_section
   - type: features_section
     features:
       - title: FoodTech
@@ -29,20 +43,6 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-  - title: BIOTECH INVESTMENT
-    subtitle: Focusing on start-ups and advanced technologies in the bio-tech field.
-    actions: []
-    align: left
-    image_alt: lorem-ipsum
-    image_position: left
-    has_background: true
-    background:
-      background_color: white
-      background_image_opacity: 0
-      background_image_size: cover
-      background_image_repeat: no-repeat
-      background_image: /images/food_evolution.png
-    type: hero_section
 seo:
   title: Features
   description: This is the features page
