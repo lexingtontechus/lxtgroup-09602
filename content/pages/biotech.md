@@ -1,11 +1,6 @@
 ---
 title: BioTech
 sections:
-  - type: hero_section
-    title: BIOTECH INVESTMENT
-    subtitle: Focusing on start-ups and advanced technologies in the bio-tech field.
-    align: center
-    has_background: true
   - type: features_section
     features:
       - title: FoodTech
