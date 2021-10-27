@@ -86,7 +86,7 @@ seo:
       value: Startups
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: Hyper-local Microservices - Accelerated Startup Business Investment
       keyName: property
     - name: 'og:image'
       value: /images/hyperlocal.jfif
