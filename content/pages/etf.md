@@ -46,7 +46,7 @@ seo:
       value: Investment Management - Forex & Crypto ETF
       keyName: property
     - name: 'og:image'
-      value: images/1.png
+      value: images/crypto_etf.jfif
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
