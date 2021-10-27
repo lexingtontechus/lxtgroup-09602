@@ -46,7 +46,7 @@ sections:
             url: /style-guide
             style: primary
 seo:
-  title: Features
+  title: BioTech
   description: This is the features page
   extra:
     - name: 'og:type'
