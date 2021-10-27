@@ -15,7 +15,7 @@ sections:
       background_image_opacity: 0
       background_image_size: auto
       background_image_repeat: no-repeat
-      background_image: /images/food_evolution.png
+      background_image: /images/1.png
     type: hero_section
   - type: features_section
     features:
