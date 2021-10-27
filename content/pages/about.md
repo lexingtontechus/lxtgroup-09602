@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 sections:
-  - title: Who We Are
+  - title: LXT GROUP LLC
     subtitle: >-
       LXT GROUP is a team of investors & technologists creating new business and
       investment projects through our Quantum Management methodology.
