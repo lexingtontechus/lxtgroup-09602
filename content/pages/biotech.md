@@ -34,7 +34,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-  - title: lorem-ipsum
+  - title: 'BIO TECH '
     subtitle: lorem-ipsum
     actions: []
     align: left
