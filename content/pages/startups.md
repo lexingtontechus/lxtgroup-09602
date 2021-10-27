@@ -77,7 +77,7 @@ sections:
         actions: []
 seo:
   title: Features
-  description: This is the features page
+  description: Hyper-local Microservices - Accelerated Startup Business Investment
   extra:
     - name: 'og:type'
       value: website
