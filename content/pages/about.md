@@ -48,7 +48,7 @@ seo:
       value: This is the about page of LXT GROUP LLC.
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: This is the about page of LXT GROUP LLC.
       keyName: property
     - name: 'og:image'
       value: /images/svgexport-84.svg
