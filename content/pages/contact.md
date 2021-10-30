@@ -3,7 +3,6 @@ title: Contact
 sections:
   - type: contact_section
   - title: Contact Us
-    subtitle: lorem-ipsum
     actions: []
     align: left
     image_alt: lorem-ipsum
