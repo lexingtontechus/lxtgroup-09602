@@ -3,7 +3,7 @@ title: BioTech
 sections:
   - title: BIOTECH INVESTMENT
     subtitle: >-
-      Plant-Based and Cell-Based innovations focusing on start-ups & advanced
+      Plant-Based & Cell-Based innovations focusing on start-ups & advanced
       technologies in the bio-tech field.
     actions: []
     align: left
