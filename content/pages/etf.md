@@ -1,6 +1,20 @@
 ---
 title: Forex & Crypto EFT
 sections:
+  - title: INVESTMENT MANAGEMENT
+    subtitle: lorem-ipsum
+    actions: []
+    align: left
+    image_alt: lorem-ipsum
+    image_position: left
+    has_background: true
+    background:
+      background_color: blue
+      background_image_opacity: 20
+      background_image_size: cover
+      background_image_repeat: no-repeat
+      background_image: /images/crypto_banner.jfif
+    type: hero_section
   - type: hero_section
     title: INVESTMENT MANAGEMENT
     align: center
@@ -33,20 +47,6 @@ sections:
         style: primary
     has_background: true
     background_color: blue
-  - title: INVESTMENT MANAGEMENT
-    subtitle: lorem-ipsum
-    actions: []
-    align: left
-    image_alt: lorem-ipsum
-    image_position: left
-    has_background: true
-    background:
-      background_color: blue
-      background_image_opacity: 20
-      background_image_size: cover
-      background_image_repeat: no-repeat
-      background_image: /images/crypto_banner.jfif
-    type: hero_section
 seo:
   title: ETF
   description: Investment Management - Forex & Crypto ETF
