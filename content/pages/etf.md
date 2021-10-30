@@ -45,7 +45,7 @@ sections:
       background_image_opacity: 20
       background_image_size: cover
       background_image_repeat: no-repeat
-      background_image: /images/delivery_medical.png
+      background_image: /images/crypto_banner.jfif
     type: hero_section
 seo:
   title: ETF
