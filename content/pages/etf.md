@@ -2,7 +2,12 @@
 title: Forex & Crypto EFT
 sections:
   - title: INVESTMENT MANAGEMENT
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left
