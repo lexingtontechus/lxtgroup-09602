@@ -3,7 +3,7 @@ title: Forex & Crypto EFT
 sections:
   - title: INVESTMENT MANAGEMENT
     actions:
-      - label: LEARN MORE
+      - label: Learn More
         url: '#'
         style: link
         new_window: false
