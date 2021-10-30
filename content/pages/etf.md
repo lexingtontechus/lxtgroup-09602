@@ -10,7 +10,7 @@ sections:
         no_follow: false
       - label: Contact
         url: /contact
-        style: link
+        style: secondary
         new_window: false
         no_follow: false
     align: left
