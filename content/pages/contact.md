@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: contact_section
-  - title: lorem-ipsum
+  - title: Contact Us
     subtitle: lorem-ipsum
     actions: []
     align: left
