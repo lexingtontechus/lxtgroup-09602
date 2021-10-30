@@ -15,7 +15,7 @@ sections:
       background_image_opacity: 20
       background_image_size: cover
       background_image_repeat: no-repeat
-      background_image: /images/regenerate_agriculture.jpg
+      background_image: /images/plantbase_lavva.jpg
     type: hero_section
   - type: features_section
     features:
