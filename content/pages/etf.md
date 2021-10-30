@@ -16,7 +16,7 @@ sections:
     type: hero_section
     subtitle: >-
       Cryptocurrency hedge fund exclusively focused on investing in digital
-      assets
+      assets.
   - title: Forex & Crypto ETF
     features:
       - title: LAUNCHING Q2 2022
