@@ -8,7 +8,7 @@ sections:
         style: primary
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Contact
         url: '#'
         style: link
         new_window: false
