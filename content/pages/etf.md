@@ -14,10 +14,6 @@ sections:
       background_image_repeat: no-repeat
       background_image: /images/crypto_banner.jfif
     type: hero_section
-  - type: hero_section
-    title: INVESTMENT MANAGEMENT
-    align: center
-    has_background: true
   - title: Forex & Crypto ETF
     features:
       - title: LAUNCHING Q2 2022
