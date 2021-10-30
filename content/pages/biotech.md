@@ -11,7 +11,7 @@ sections:
     image_position: left
     has_background: true
     background:
-      background_color: white
+      background_color: blue
       background_image_opacity: 20
       background_image_size: cover
       background_image_repeat: no-repeat
