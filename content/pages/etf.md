@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: INVESTMENT MANAGEMENT
     align: center
+    has_background: true
   - title: Forex & Crypto ETF
     features:
       - title: LAUNCHING Q2 2022
