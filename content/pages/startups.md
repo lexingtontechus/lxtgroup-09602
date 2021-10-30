@@ -77,7 +77,7 @@ sections:
         image_position: right
         actions: []
   - title: HYPER LOCAL MICROSERVICES
-    subtitle: 'Accelerated Startup Buiness '
+    subtitle: Accelerated Startup Business Investment
     actions: []
     align: left
     image_alt: lorem-ipsum
