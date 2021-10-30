@@ -1,7 +1,6 @@
 ---
 title: Contact
 sections:
-  - type: contact_section
   - title: Contact Us
     actions: []
     align: left
@@ -14,6 +13,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+  - type: contact_section
 seo:
   title: Contact
   description: This is the contact page
