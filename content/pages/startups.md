@@ -1,11 +1,6 @@
 ---
 title: Startups
 sections:
-  - type: hero_section
-    title: HYPER LOCAL MICROSERVICES
-    subtitle: Accelerated Startup Business Investment
-    align: center
-    has_background: true
   - type: features_section
     features:
       - title: Food Delivery / Cloud Kitchens
