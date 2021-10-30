@@ -2,7 +2,6 @@
 title: Contact
 sections:
   - type: contact_section
-    title: Contact Us
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
