@@ -9,7 +9,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Contact
-        url: '#'
+        url: /contact
         style: link
         new_window: false
         no_follow: false
