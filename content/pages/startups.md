@@ -76,7 +76,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - title: lorem-ipsum
+  - title: HYPER LOCAL MICROSERVICES
     subtitle: lorem-ipsum
     actions: []
     align: left
