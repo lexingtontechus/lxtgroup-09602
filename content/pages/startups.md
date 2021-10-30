@@ -1,6 +1,20 @@
 ---
 title: Startups
 sections:
+  - title: HYPER LOCAL MICROSERVICES
+    subtitle: Accelerated Startup Business Investment
+    actions: []
+    align: left
+    image_alt: lorem-ipsum
+    image_position: left
+    has_background: true
+    background:
+      background_color: blue
+      background_image_opacity: 20
+      background_image_size: cover
+      background_image_repeat: no-repeat
+      background_image: /images/startup_business.jfif
+    type: hero_section
   - type: features_section
     features:
       - title: Food Delivery / Cloud Kitchens
@@ -71,20 +85,6 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - title: HYPER LOCAL MICROSERVICES
-    subtitle: Accelerated Startup Business Investment
-    actions: []
-    align: left
-    image_alt: lorem-ipsum
-    image_position: left
-    has_background: true
-    background:
-      background_color: blue
-      background_image_opacity: 20
-      background_image_size: cover
-      background_image_repeat: no-repeat
-      background_image: /images/startup_business.jfif
-    type: hero_section
 seo:
   title: Startups
   description: Hyper-local Microservices - Accelerated Startup Business Investment
