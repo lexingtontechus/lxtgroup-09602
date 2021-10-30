@@ -1,5 +1,5 @@
 ---
-title: Start
+title: StartUps
 sections:
   - type: hero_section
     title: HYPER LOCAL MICROSERVICES
