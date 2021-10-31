@@ -15,7 +15,7 @@ sections:
         no_follow: false
     align: left
     image_alt: lorem-ipsum
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: blue
