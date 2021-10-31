@@ -6,7 +6,7 @@ sections:
       Plant-Based & Cell-Based innovations focused on biotech start-ups &
       advanced technologies.
     actions:
-      - label: lorem-ipsum
+      - label: Learn More
         url: '#'
         style: link
         new_window: false
