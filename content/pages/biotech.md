@@ -5,7 +5,12 @@ sections:
     subtitle: >-
       Plant-Based & Cell-Based innovations focused on biotech start-ups &
       advanced technologies.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image_alt: lorem-ipsum
     image_position: left
