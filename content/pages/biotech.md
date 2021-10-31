@@ -7,7 +7,7 @@ sections:
       advanced technologies.
     actions:
       - label: Learn More
-        url: '#'
+        url: /about
         style: link
         new_window: false
         no_follow: false
