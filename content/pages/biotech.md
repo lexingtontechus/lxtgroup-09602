@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Learn More
         url: /about
-        style: link
+        style: primary
         new_window: false
         no_follow: false
     align: left
