@@ -17,7 +17,7 @@ sections:
         new_window: false
         no_follow: false
     align: left
-    image_alt: lorem-ipsum
+    image_alt: BioTech Investment
     image_position: left
     has_background: true
     background:
