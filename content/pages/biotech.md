@@ -27,6 +27,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: /images/food_evolution.png
     type: hero_section
+    image: /images/FoodTech___BioTech.webp
   - type: features_section
     features:
       - title: FoodTech
